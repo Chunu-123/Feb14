@@ -3,8 +3,8 @@ const fpNameEl = document.querySelector("#fpname");
 const spNameEl = document.querySelector("#spname");
 
 const proposeQuotes = [
-  `In the garden of love, will you be my forever flower?`,
-  `Our love story is my favorite. Will you make it official and be my forever?`,
+  `I Want to spend my today, tomorrow, my entire life with you, I wanna grow old with-you, I love Youuu`,
+  `From the moment you walked into my life, my heart choose you. Will you be mine forever?`,
   `I'm not a genie, but I can make your dreams come true. Will you be my wish?`,
   `Are you a camera? Every time I look at you, I smile. Will you be the reason for my happiness?`,
   `Is your name Wi‑fi? Because I'm feeling a connection. Will you be my forever signal?`,
